@@ -7,8 +7,8 @@ android {
         applicationId "com.deptrai.anhkhoa.demomultiapk"
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 1544113
-        versionName "1.13"
+        versionCode 1554128
+        versionName "1.15"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

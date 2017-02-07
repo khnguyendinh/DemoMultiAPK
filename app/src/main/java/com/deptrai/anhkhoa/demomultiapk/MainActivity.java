@@ -26,8 +26,10 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
-        getSupportActionBar().setTitle("Low");
-        getSupportActionBar().setSubtitle("Low");
+        String tag = "Low28";
+//        String tag = "Hight27";
+        getSupportActionBar().setTitle(tag);
+        getSupportActionBar().setSubtitle(tag);
     }
 
     @Override
