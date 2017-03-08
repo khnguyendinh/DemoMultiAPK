@@ -2,13 +2,13 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    buildToolsVersion "25.0.1"
     defaultConfig {
         applicationId "com.deptrai.anhkhoa.demomultiapk"
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 1554128
-        versionName "1.15"
+        versionCode 1554130
+        versionName "1.16"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
